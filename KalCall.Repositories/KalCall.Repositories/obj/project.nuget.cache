@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZbFfcacUszY5B7xBw0WfVhV/dbF19a6H8iKjfK28rxS5pJzbXb1jhS7EhjXvVmr2qKuEDwF3ZUpIQSw+2liOlg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\support.SELDAT\\Desktop\\Racheli\\KalCall\\Server\\KalCall.Repositories\\KalCall.Repositories\\KalCall.Repositories.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\support.SELDAT\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

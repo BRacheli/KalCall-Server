@@ -1,0 +1,12 @@
+C:\Users\support.SELDAT\Desktop\Racheli\KalCall\Server\KalCall.Repositories\KalCall.Repositories\bin\Debug\net6.0\KalCall.Repositories.deps.json
+C:\Users\support.SELDAT\Desktop\Racheli\KalCall\Server\KalCall.Repositories\KalCall.Repositories\bin\Debug\net6.0\KalCall.Repositories.dll
+C:\Users\support.SELDAT\Desktop\Racheli\KalCall\Server\KalCall.Repositories\KalCall.Repositories\bin\Debug\net6.0\KalCall.Repositories.pdb
+C:\Users\support.SELDAT\Desktop\Racheli\KalCall\Server\KalCall.Repositories\KalCall.Repositories\obj\Debug\net6.0\KalCall.Repositories.csproj.AssemblyReference.cache
+C:\Users\support.SELDAT\Desktop\Racheli\KalCall\Server\KalCall.Repositories\KalCall.Repositories\obj\Debug\net6.0\KalCall.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\support.SELDAT\Desktop\Racheli\KalCall\Server\KalCall.Repositories\KalCall.Repositories\obj\Debug\net6.0\KalCall.Repositories.AssemblyInfoInputs.cache
+C:\Users\support.SELDAT\Desktop\Racheli\KalCall\Server\KalCall.Repositories\KalCall.Repositories\obj\Debug\net6.0\KalCall.Repositories.AssemblyInfo.cs
+C:\Users\support.SELDAT\Desktop\Racheli\KalCall\Server\KalCall.Repositories\KalCall.Repositories\obj\Debug\net6.0\KalCall.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\support.SELDAT\Desktop\Racheli\KalCall\Server\KalCall.Repositories\KalCall.Repositories\obj\Debug\net6.0\KalCall.Repositories.dll
+C:\Users\support.SELDAT\Desktop\Racheli\KalCall\Server\KalCall.Repositories\KalCall.Repositories\obj\Debug\net6.0\refint\KalCall.Repositories.dll
+C:\Users\support.SELDAT\Desktop\Racheli\KalCall\Server\KalCall.Repositories\KalCall.Repositories\obj\Debug\net6.0\KalCall.Repositories.pdb
+C:\Users\support.SELDAT\Desktop\Racheli\KalCall\Server\KalCall.Repositories\KalCall.Repositories\obj\Debug\net6.0\ref\KalCall.Repositories.dll
